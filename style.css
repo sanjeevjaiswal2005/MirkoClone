@@ -878,12 +878,8 @@ body {
   border: 3px solid #63f28f;
   padding: 24px;
   min-height: 257px;
-  max-width: 291px !important;
   background: transparent;
-  /* margin: 0px 50px !important; */
-  /* margin: 0px; */
-  margin-left: 80px;
-  /* margin-right: 30px; */
+  margin-left: 60px;
 }
 
 .testimonial-card p {
